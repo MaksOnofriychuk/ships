@@ -1,5 +1,5 @@
 import "pixi-spine";
-import "./style.css";
+import "./styles/main.css";
 import { Application } from "pixi.js";
 
 const gameWidth = 1280;
